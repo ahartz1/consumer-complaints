@@ -1,0 +1,5 @@
+.direnv
+.envrc
+.ipynb_checkpoints/
+__pycache__/
+complaints_dec_2014.csv
