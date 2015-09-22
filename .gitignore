@@ -3,3 +3,5 @@
 .ipynb_checkpoints/
 __pycache__/
 complaints_dec_2014.csv
+states.csv
+SCPRC-EST2014-18+POP-RES.csv
